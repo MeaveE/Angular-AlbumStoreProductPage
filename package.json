@@ -42,7 +42,7 @@
     "zone.js": "0.8.12"
   },
   "devDependencies": {
-    "@angular/cli": "1.6.5",
+    "@angular/cli": "^8.0.1",
     "@angular/compiler-cli": "5.2.0",
     "@angular/language-service": "5.2.0",
     "@phenomnomnominal/tsquery": "2.1.1",
@@ -67,7 +67,7 @@
     "karma-spec-reporter": "0.0.31",
     "karma-structured-json-reporter": "1.0.0",
     "minimist": "1.2.0",
-    "mocha": "3.4.2",
+    "mocha": "^3.5.3",
     "parse5": "5.1.0",
     "protractor": "5.1.2",
     "ts-node": "4.1.0",
